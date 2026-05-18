@@ -1,6 +1,6 @@
 import streamlit as st
 st.title('Calculadora de Reembolso de combustível')
-st.subheader('Escolha o combustível ')
+st.subheader('Beatriz Cardoso')
 #Quanto vale a pena escolher etanol ao invés de gasolina?
 etanol = 0.36
 gasolina = 0.25
